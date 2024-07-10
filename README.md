@@ -13,7 +13,9 @@ To use the calculator, simply clone this repository and open the `index.html` fi
 
 ## Files
 index.html - The main HTML file containing the structure of the calculator.
+
 calculatordesign.css - The CSS file for styling the calculator.
+
 calculatorworking.js - The JavaScript file for the calculator's functionality.
 
 ## How It Works
