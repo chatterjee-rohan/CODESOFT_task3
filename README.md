@@ -4,7 +4,7 @@ This project is a simple web-based calculator created using HTML, CSS, and JavaS
 ## Features
 - Responsive design using CSS
 - Clear and user-friendly interface
-- Basic arithmetic operations: addition, subtraction, multiplication, and division
+- Basic arithmetic operations: addition, subtraction, multiplication, division and reminder
 - Special functions: Clear (AC) and Delete (DEL)
 - Supports decimal operations
   
