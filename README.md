@@ -1,3 +1,4 @@
+## Basic Calculator
 This project is a simple web-based calculator created using HTML, CSS, and JavaScript. The calculator can perform basic arithmetic operations like addition, subtraction, multiplication, and division. It serves as a practice project for basic web development skills.
 
 ## Features
